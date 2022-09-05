@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 This is Austin Mattila</h1>
-<h3 align="center">I am a Senior Front-End Engineer🌟.</h3>
+<h3 align="center">I am a Senior Full Stack | Blockchain Developer🌟.</h3>
 <br>
 <p align='center'>
 <img src="https://profile-counter.glitch.me/aaaMattila/count.svg" />
