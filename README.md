@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 This is Austin Mattila</h1>
-<h3 align="center">I am a Senior Full Stack | Blockchain Developer🌟.</h3>
+<h1 align="center">Hi 👋 This is James Honeycutt</h1>
+<h3 align="center">I am a full stack web developer🌟.</h3>
 <br>
 <p align='center'>
-<img src="https://profile-counter.glitch.me/aaaMattila/count.svg" />
+<img src="https://profile-counter.glitch.me/CharmingGuy0912/count.svg" />
   <p/>
 <br>
 
@@ -44,8 +44,8 @@
 <br/>
 ⚡ Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaaMattila&theme=algolia" alt="Austin Mattila" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aaaMattila&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmingGuy0912&theme=algolia" alt="Charming Guy" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CharmingGuy0912&theme=tokyonight">
 </p>
 ⚡ Recent Github Activity
-<a href="https://github.com/aaaMattila"><img alt="Austin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aaaMattila&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<a href="https://github.com/CharmingGuy0912"><img alt="James's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CharmingGuy0912&custom_title=Recent%20Activity&theme=react-dark" /></a>
