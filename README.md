@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 This is James Honeycutt</h1>
-<h3 align="center">I am a full stack web developer🌟.</h3>
+<h3 align="center">I am a full stack engineer🌟.</h3>
 <br>
 <p align='center'>
 <img src="https://profile-counter.glitch.me/CharmingGuy0912/count.svg" />
